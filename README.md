@@ -1,3 +1,3 @@
 - This is a simple React Project based on a food website.
-- Technologies: React, React Tab, Tailwind CSS, DaisyUI, React icons
+- Technologies: React, React Tab, Tailwind CSS, DaisyUI, React icons, json, API
 - Live link: https://652e41b86a559a03a28ba035--astounding-blini-e1d999.netlify.app/
