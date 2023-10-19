@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&w=1000&q=80",
+        "name": "Americano Coffee",
+        "details": "Strong j-packed shot coffee",
+        "price": 10.15,
+        "category": "coffee",
+        "popularity": "most"
+    },
+    {
+        "id": 2,
+        "img": "https://www.allrecipes.com/thmb/PujANugNXQW7ugnivQt8b4_-13k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-169856-CreamCheeseandCrabSushiRolls-ddmfs-3x4-6421-8d233e210db3458f8574bafad1c69e70.jpg",
+        "name": "Japanese Sushi",
+        "details": "Traditional, soft, nice smell",
+        "price": 12.45,
+        "category": "snack",
+        "popularity": "most"
+    },
+    {
+        "id": 3,
+        "img": "https://familystylefood.com/wp-content/uploads/2022/07/Bucatini-All-Amatriciana.jpg",
+        "name": "Italian Pasta",
+        "details": "Strong, squisy beef & noodle",
+        "price": 16.20,
+        "category": "italian",
+        "popularity": "most"
+    },
+    {
+        "id": 4,
+        "img": "https://www.noracooks.com/wp-content/uploads/2023/04/veggie-burgers-1-2.jpg",
+        "name": "Burger Deluxe",
+        "details": "Our delicious pure beef patty",
+        "price": 18.66,
+        "category": "burger",
+        "popularity": "most"
+    },
+    {
+        "id": 5,
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/04/Fresh-Watermelon-Juice-Recipe.jpg",
+        "name": "Watermelon Juice",
+        "details": "A delicious & thirst quenching",
+        "price": 18.80,
+        "category": "beverage",
+        "popularity": "most"
+    },
+    {
+        "id": 6,
+        "img": "https://www.evolvingtable.com/wp-content/uploads/2022/12/How-to-Make-Smoothie-1.jpg",
+        "name": "Healthy Squash",
+        "details": "Refreshing and rejuvenating",
+        "price": 20.05,
+        "category": "beverage",
+        "popularity": "most"
+    },
+    {
+        "id": 7,
+        "img": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
+        "name": "Tomato Pizza",
+        "details": "Sweet and super tasty pizza",
+        "price": 21.15,
+        "category": "italian",
+        "popularity": "most"
+    },
+    {
+        "id": 8,
+        "img": "https://www.thespruceeats.com/thmb/_x5cGFh26Ecf32WFCyql4y9OLaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-bubble-tea-766451-hero-01-a6dca4dd096a4d8abdde1a754766f851.jpg",
+        "name": "Boba Thai Tea",
+        "details": "Wide straw juicy boba & tea",
+        "price": 10.15,
+        "category": "beverage",
+        "popularity": "most"
+    },
+    {
+        "id": 9,
+        "img": "https://christieathome.com/wp-content/uploads/2022/04/Chicken-Chow-Mein-13.jpg",
+        "name": "Luxury Indomie",
+        "details": "A luxury hicky-picky flavours",
+        "price": 22.45,
+        "category": "italian",
+        "popularity": "most"
+    },
+    {
+        "id": 10,
+        "img": "https://pinchandswirl.com/wp-content/uploads/2022/11/Lamb-Tacos__sq.jpg",
+        "name": "Mexican Taco",
+        "details": "Made with spit-grilled meat",
+        "price": 24.50,
+        "category": "snack",
+        "popularity": "most"
+    },
+    {
+        "id": 11,
+        "img": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/03/Oreo-Milkshake-10.jpg",
+        "name": "Milky Oreo Squash",
+        "details": "Juicy, sweetie & milky squash",
+        "price": 25.00,
+        "category": "beverage",
+        "popularity": "most"
+    },
+    {
+        "id": 12,
+        "img": "https://cdn7.kiwilimon.com/recetaimagen/20383/16777.jpg",
+        "name": "Milky Banana Juice",
+        "details": "A sweet & creamy banana juice",
+        "price": 25.50,
+        "category": "beverage",
+        "popularity": "most"
+    },
+    {
+        "id": 13,
+        "img": "https://media.istockphoto.com/id/505168330/photo/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks.jpg?s=612x612&w=0&k=20&c=h7v8kAfWOpRapv6hrDwmmB54DqrGQWxlhP_mTeqTQPA=",
+        "name": "Latte",
+        "details": "A creamy & refreshing coffee",
+        "price": 15.15,
+        "category": "coffee",
+        "popularity": "less"
+    },
+    {
+        "id": 14,
+        "img": "https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-square-FS-42.jpg",
+        "name": "Double Cheese Burger",
+        "details": "Best cheesy burger",
+        "price": 19.00,
+        "category": "burger",
+        "popularity": "less"
+    },
+    {
+        "id": 15,
+        "img": "https://www.spendwithpennies.com/wp-content/uploads/2022/08/Loaded-Cheese-Fries-SpendWithPennies-4.jpg",
+        "name": "Cheese Fries",
+        "details": "Freshly cut fries boiled in oil and served with cheddar cheese",
+        "price": 12.00,
+        "category": "snack",
+        "popularity": "less"
+    },
+    {
+        "id": 16,
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/04/Chocolate-Cold-Coffee-2-3.jpg",
+        "name": "Cold Coffee",
+        "details": "Refreshing cold coffee with chocolate syrup",
+        "price": 10.00,
+        "category": "coffee",
+        "popularity": "less"
+    }
+]
